@@ -6,9 +6,9 @@ Hello here we are working on saral website
 
 
  # Today's Agenda
-
+we have to learn about SSH key and SRS
  # Groups
+ we have to dicussed in evening whatever we have done in whole days.
  
- # sanjay
  
  

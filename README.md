@@ -15,6 +15,3 @@ Hello here we are working on saral website
 
  we are doing somethings.
  
- 
- 
- hiii  all

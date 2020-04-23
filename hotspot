@@ -20,3 +20,5 @@ Passphrase: me password enter krna hai
 # Make uninstall Create_ap
 
   sudo apt-get remove hostapd
+
+

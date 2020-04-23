@@ -113,7 +113,7 @@ to pull
 without username and password.
 
 
-# PUBLIC_KEY permission denied
+# If i am getting this type of PUBLIC_KEY permission denied error so what we have done ---
 you have run this command---
 
         eval "$(ssh-agent -s)" 

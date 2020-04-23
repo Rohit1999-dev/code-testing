@@ -6,7 +6,7 @@ Passphrase: me password enter krna hai
 
 
 
-hotspot  code
+# hotspot  code
 
 
  sudo apt-get install hostapd git build-essential

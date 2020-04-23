@@ -18,6 +18,8 @@ here, all the command to update their node version and their npm.
 
 # postgres database
 here, all the instruction which is covered how to start postgresql connection.
+
+# Good bye
  
  
  

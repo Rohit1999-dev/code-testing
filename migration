@@ -39,10 +39,10 @@ We can build these scripts via the command line using knex command line tool.
 
 ## How you will start:
 
-(1) Use “ knex migrate:latest”=> then you can see that in your database two files are created automatically.
+(2) Use “ knex migrate:latest”=> then you can see that in your database two files are created automatically.
  And also you can see on vs code that place ‘knex/migration’ name of the folder created.
 
-(2) After that just create a js file so you can use this one code “ knex migrate: make “file name”
+(1) After that just create a js file so you can use this one code “ knex migrate: make “file name”
 (3) After that, you can see a .js file created and if you will look in the file the you can see two files are there. 
     exports.up= function(knex){}
 	exports.down=function(knex){}
